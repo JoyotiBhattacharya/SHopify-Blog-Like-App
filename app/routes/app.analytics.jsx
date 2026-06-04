@@ -68,7 +68,7 @@ export default function AnalyticsPage() {
       <div
         style={{
           background: "#ffffff",
-          border: "1px solid #e1e3e5",
+          border: "1px solid rgb(81, 149, 83)",
           borderRadius: "12px",
           padding: "24px",
           marginBottom: "24px",
